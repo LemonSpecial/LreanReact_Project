@@ -1,0 +1,15 @@
+{
+    "list":[
+        {
+            "rpid":3,
+            "user":{
+                "uid":13258165,
+                "avatar":"http://114.66.61.10:5500/Images/Normal.png",
+                "uname":"小小酱"
+            },
+            "content":"芜湖，我来咯！",
+            "ctime":"2024-06-12 10:20:30",
+            "like":15
+        }
+    ]
+}
